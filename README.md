@@ -1,10 +1,10 @@
 # Shopify Stock Market Analysis – Power BI
 
-## 📊 Project Overview
+## Project Overview
 
 This project is an interactive **Shopify Stock Market Analysis Dashboard** created using **Microsoft Power BI Desktop**. It analyzes stock prices and trading volume using historical Shopify stock data.
 
-## 🎯 Objectives
+## Objectives
 
 - Prepare and analyze the Shopify stock dataset
 - Create a structured Date Table
@@ -12,7 +12,7 @@ This project is an interactive **Shopify Stock Market Analysis Dashboard** creat
 - Analyze stock prices over time
 - Build an interactive financial dashboard
 
-## 📈 Dashboard Features
+## Dashboard Features
 
 - Open Price
 - Close Price
@@ -27,7 +27,7 @@ This project is an interactive **Shopify Stock Market Analysis Dashboard** creat
 - Year and Month Slicers
 - Previous Year Price Comparison
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Microsoft Power BI Desktop
 - Power Query
